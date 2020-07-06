@@ -1,0 +1,33 @@
+{
+  "name": "@glua-addon-types/flex",
+  "version": "1.0.0",
+  "description": "types for FLEX",
+  "main": "",
+  "types": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glua-addon-types/flex.git"
+  },
+  "keywords": [
+    "glua",
+    "flex",
+    "simfphys",
+    "gmod",
+    "lua",
+    "types",
+    "typings",
+    "typescript"
+  ],
+  "author": "SupinePandora43",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glua-addon-types/flex/issues"
+  },
+  "homepage": "https://github.com/glua-addon-types/flex#readme",
+  "optionalDependencies": {
+    "@glua-ts/types": "^0.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "files": [
+        "index.d.ts"
+    ],
+    "compilerOptions": {
+        "types": [
+            "./index",
+            "@glua-ts/types/typings/garrysmod"
+        ],
+        "typeRoots": [
+            "./"
+        ]
+    }
+}
