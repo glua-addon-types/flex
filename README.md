@@ -8,13 +8,11 @@
 }
 ```
 `tsconfig.json`:
-```
+```json
 {
 	"compilerOptions": {
-		"target": "ESNext",
-		"lib": [ "ESNext" ],
 		"types": [
-			"@glua-addon-types/FLEX/index"
+			"@glua-addon-types/flex/index"
 		]
 	}
 }
